@@ -1,0 +1,2 @@
+# wlog
+C++ logger library
